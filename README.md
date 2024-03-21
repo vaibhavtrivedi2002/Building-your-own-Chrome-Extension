@@ -1,0 +1,1 @@
+This repository contains the source code for a Chrome extension called "Programming Practice Companion." This extension helps users learn programming languages by generating coding practice questions based on the concepts encountered while browsing websites.
