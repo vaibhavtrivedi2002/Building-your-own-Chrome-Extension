@@ -1,6 +1,6 @@
 > **Roadmap**
 >Important Note:
-> Deploying a Chrome Extension needs amount of 5$. You can find it here: WebStore>Developer Section.
+> Deploying a Chrome Extension needs amount of 5$. You can find it here: WebStore>Developer Section.<br>
 
 **1. Manifest.json:**
 
