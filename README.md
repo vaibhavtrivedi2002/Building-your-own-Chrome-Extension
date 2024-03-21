@@ -1,4 +1,4 @@
-Due to the complexity of the extension, providing the entire codebase is impractical. However, here's a breakdown of the starting code with key functionalities:
+
 
 **1. Manifest.json:**
 
