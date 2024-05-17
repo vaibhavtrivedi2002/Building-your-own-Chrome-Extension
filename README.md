@@ -52,7 +52,6 @@ This defines the user interface for the extension popup.
   <title>Practice Companion</title>
   <script src="content.js"></script>  </head>
 <body>
-  <h1>Practice Question</h1>
   <p id="question"></p>
   <button onclick="getQuestion()">Generate Question</button>
   <script src="popup.js"></script>
